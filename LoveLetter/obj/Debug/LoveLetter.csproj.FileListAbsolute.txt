@@ -1,1 +1,6 @@
 C:\Users\J\OneDrive\Developments\C#\Love Letter\LoveLetter\LoveLetter\bin\Debug\LoveLetter.exe.config
+C:\Users\J\OneDrive\Developments\C#\Love Letter\LoveLetter\LoveLetter\bin\Debug\LoveLetter.exe
+C:\Users\J\OneDrive\Developments\C#\Love Letter\LoveLetter\LoveLetter\bin\Debug\LoveLetter.pdb
+C:\Users\J\OneDrive\Developments\C#\Love Letter\LoveLetter\LoveLetter\obj\Debug\LoveLetter.csprojResolveAssemblyReference.cache
+C:\Users\J\OneDrive\Developments\C#\Love Letter\LoveLetter\LoveLetter\obj\Debug\LoveLetter.exe
+C:\Users\J\OneDrive\Developments\C#\Love Letter\LoveLetter\LoveLetter\obj\Debug\LoveLetter.pdb
