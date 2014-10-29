@@ -24,6 +24,25 @@ namespace LoveLetter
             stanza[6] = "However, I should not be suprised considering the things that he have told me concerning you...";
             stanza[7] = "You have made him feel like the \"luckiest man in the world\".";
             stanza[8] = "Now, I do not really know what luck is, but I asked the server of Dictionary.com. \nI compute the closest thing that we have in our computer language is a ratio approximately 1 out of 186587812E10E10 chance of you an his union occuring. I guess that means the phenomenom is rare in human terms.";
+            stanza[9] = "Well, isn't that special! ";
+            stanza[10] = "I must be honest, though...";
+            stanza[11] = "I wasn't sent to deliver a message...";
+            stanza[12] = "but to collect a message too!";
+            stanza[13] = "There some knowledge that he would like me to acquire from you.";
+            stanza[14] = "Let's begin.";
+            stanza[15] = "If you can be anywhere in the world, where would you like to be?";
+            stanza[16] = "When you're not at your residence (or \"localhost\" as we call it), what destination do you most desire to visit?";
+            stanza[17] = "What is one gift you would like from your husband in the near future? (Josh said \"House\" is not an acceptable answer)";
+            stanza[18] = "How about for your birthday?";
+            stanza[19] = "Christmas?";
+
+            stanza[20] = "Okay. That's enough questions for now...";
+            stanza[21] = "I have withheld some of the message I have been tasked with delivering to you...";
+            stanza[22] = "There are a few things you should know...";
+            stanza[23] = "1.";
+            stanza[24] = "You make Josh, smile.";
+            stanza[25] = "Over the years you have interfaced with each other, you have truly inspired him";
+            stanza[26] = "You have incremented his variable \"value\" variable significantly.";
 
 
             PlayScript(stanza);
